@@ -1,0 +1,12 @@
+{
+  "name": "ethereum-weather-station",
+  "version": "1.0.0",
+  "description": "Ask Alexa about the Ethereum network status: gas price, confirmation wait time, average block time, current block number, a recommendation about transaction fee and the Ethereum price in USD, EUR, and CNY.",
+  "homepage": "https://github.com/monosux/ethereum-weather-station/",
+  "main": "alexa.js",
+  "author": "Sergey Alexeev",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "error": "Oops, it seems like I divided by zero. Try again later.",
+    "weatherTypes": [
+        "It's sunny now.", "It's cloudy now.", "It's raining now.", "It's a storm now."
+    ],
+    "priceTypes": [
+        "Safe Low", "Average", "Fast", "Fastest"
+    ],
+    "basic": [
+        "{type} gas price is {value} Gwei.",
+        "{type} wait time is {value} blocks.",
+        "{type} block time is {value} seconds.",
+        "Last block number is {value}."
+    ],
+    "statistic": [
+        "For the last 1500 blocks over Ethereum network were send {value} transactions.",
+        "{value} blocks were full.",
+        "{value} blocks were empty.",
+        "Highest gas price was {value} gwei.",
+        "Cheapest gas price was {value} gwei."
+    ],
+    "prices": [
+        "Ethereum price is:",
+        "{value} United States Dollars;",
+        "or {value} Euros;",
+        "or {value} Chinese Yuan."
+    ]
+}
